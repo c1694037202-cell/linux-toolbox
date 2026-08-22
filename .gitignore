@@ -1,0 +1,5 @@
+.env
+*.key
+*.o
+*.out
+a.out
